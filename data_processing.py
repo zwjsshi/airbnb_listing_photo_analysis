@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  6 13:20:18 2020
 
-@author: zewen
+@author: zewen, krati
 """
 import cv2 as cv
 import numpy as np

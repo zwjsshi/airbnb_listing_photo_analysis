@@ -1,3 +1,5 @@
+###author: zewen
+
 ny_bed_final = read.csv('C:\\Users\\zewen\\Desktop\\Computer Vision Marketing\\Project\\final\\ny_bed_final.csv')
 names(ny_bed_final)
 attach(ny_bed_final)
